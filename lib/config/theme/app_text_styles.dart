@@ -50,6 +50,6 @@ class BeVietNamProStyles {
   }
 
   final regular16Tiffany =
-  customBeVietNamProStyle(16, AppColors.tiffanyBlue, AppFontWeight.regular.weight);
+  customBeVietNamProStyle(16, Colors.white, AppFontWeight.regular.weight);
 
 }
