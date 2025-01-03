@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  scrollable_list_tab_scroller: ^3.1.0
 
 
   cupertino_icons: ^1.0.8
